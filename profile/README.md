@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/TeachDiffusion.png" alt="TeachDiffusion" width="400"/>
-</p>
-
 <h3 align="center">Open-Source Video Diffusion for Math Education</h3>
 
 <p align="center">
