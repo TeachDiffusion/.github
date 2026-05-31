@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/teachdiffusion_logo.svg" alt="TeachDiffusion" width="400"/>
+</p>
+
 <h3 align="center">Open-Source Video Diffusion for Math Education</h3>
 
 <p align="center">
